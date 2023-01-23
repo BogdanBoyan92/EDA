@@ -11,7 +11,7 @@ Poblacion blanca. Se centran principalmente en Staten Island pero hay grupos muy
 Poblacion hispana. Se centran en el norte de manhattan y algunos grupos pequeños en Queens y Brooklyn
 Poblacion asiatica. Se centran principalmente en Queens . Hay algunos grupos pequeños al sur de Manhattan y este de Brooklyn.
 
--Ejercicio 4
+- Ejercicio 4
 Segun las graficas se puede ver que la raza blanca y asiatica se centra mucho en ciertos colegios. 
 Eso quiere decir que hay colegios donde un porcentaje muy alto son o blancos o asiaticos.
  Los hispanos y los negros estan presentes en practicamente todos los colegios y suponen por lo general
